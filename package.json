@@ -1,0 +1,17 @@
+{
+  "name": "Blank",
+  "version": "0.1.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.2.0",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
